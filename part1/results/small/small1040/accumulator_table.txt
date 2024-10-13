@@ -1,0 +1,42 @@
+                           count;                counter.set.name;                    counter.name
+                          737860;                   Mapping_Cache;                             hit
+                             652;                   Mapping_Cache;                            miss
+                   20597400000.0;               channel_busy_time;      channel_4-write-foreground
+                       1500000.0;               channel_busy_time;       channel_7-read-background
+                       1380000.0;               channel_busy_time;       channel_5-read-foreground
+                       1800000.0;               channel_busy_time;       channel_5-read-background
+                       1400000.0;               channel_busy_time;       channel_0-read-foreground
+                       1360000.0;               channel_busy_time;       channel_2-read-foreground
+                     496500000.0;               channel_busy_time;channel_2-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                   20600600000.0;               channel_busy_time;      channel_2-write-foreground
+                     496500000.0;               channel_busy_time;channel_0-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                     496500000.0;               channel_busy_time;channel_4-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                       1980000.0;               channel_busy_time;       channel_3-read-foreground
+                     496500000.0;               channel_busy_time;channel_1-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                   20640600000.0;               channel_busy_time;      channel_3-write-foreground
+                       1680000.0;               channel_busy_time;       channel_1-read-foreground
+                   20150800000.0;               channel_busy_time;      channel_5-write-foreground
+                       1720000.0;               channel_busy_time;       channel_1-read-background
+                   20593800000.0;               channel_busy_time;      channel_1-write-foreground
+                       1520000.0;               channel_busy_time;       channel_6-read-foreground
+                       1640000.0;               channel_busy_time;       channel_2-read-background
+                     498000000.0;               channel_busy_time;channel_3-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                       1660000.0;               channel_busy_time;       channel_4-read-foreground
+                       1620000.0;               channel_busy_time;       channel_4-read-background
+                       1760000.0;               channel_busy_time;       channel_3-read-background
+                     394500000.0;               channel_busy_time;channel_6-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                       1480000.0;               channel_busy_time;       channel_6-read-background
+                         1520000;               channel_busy_time;       channel_0-read-background
+                    6502400000.0;               channel_busy_time;      channel_7-write-foreground
+                     481500000.0;               channel_busy_time;channel_5-erase-{'op_id': None, 'op': 'erase.data.gc'}
+                       1340000.0;               channel_busy_time;       channel_7-read-foreground
+                   17874400000.0;               channel_busy_time;      channel_6-write-foreground
+                   20618800000.0;               channel_busy_time;      channel_0-write-foreground
+                      1511206912;                         traffic;                           write
+                         1265664;                         traffic;                            read
+                            2240;                              gc;                erase.data.block
+                            1268;                       flash_ops;                         OP_READ
+                          737894;                       flash_ops;                        OP_WRITE
+                            2240;                       flash_ops;                        OP_ERASE
+                          737894;                     translation;              overwrite-in-cache
+                             652;                     translation;             read-trans-for-load
